@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="976559c9-69c7-4b46-88e5-f28f05e17190" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/run_titanic_analysis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_visualization_titanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_visualization_titanic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Python.data_visualization_titanic.executor": "Run",
     "Python.hr_dataset_exercise_applied_data_analysis_prophet.executor": "Run",
     "Python.linear_model_california.executor": "Run",
+    "Python.run_titanic_analysis.executor": "Run",
     "Python.titanic.executor": "Run",
     "Python.titanic__data_manipulation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,7 +58,7 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.data_visualization_titanic">
+  <component name="RunManager" selected="Python.run_titanic_analysis">
     <configuration name="data_visualization_titanic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Titanic" />
       <option name="ENV_FILES" value="" />
@@ -94,6 +95,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_dataset_exercise_applied_data_analysis_prophet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_titanic_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Titanic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_titanic_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,6 +171,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_titanic_analysis" />
         <item itemvalue="Python.data_visualization_titanic" />
         <item itemvalue="Python.hr_dataset_exercise_applied_data_analysis_prophet" />
         <item itemvalue="Python.titanic__data_manipulation" />
