@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="976559c9-69c7-4b46-88e5-f28f05e17190" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/run_titanic_analysis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_visualization_titanic.json" beforeDir="false" afterPath="$PROJECT_DIR$/data_visualization_titanic.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
